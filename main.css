@@ -1,0 +1,28 @@
+#time{
+    background-color: white;
+    width: 200px;
+    height: 100px;
+    padding: 30px;
+    font-size: 50px;
+}
+
+#button_start{
+    background-color: silver;
+    border:1px solid black;
+    width:100px;
+    height:50px;
+}
+
+#button_stop{
+    background-color: silver;
+    border:1px solid black;
+    width:100px;
+    height:50px;
+}
+
+#button_reset{
+    background-color: silver;
+    border:1px solid black;
+    width:100px;
+    height:50px;
+}
